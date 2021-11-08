@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2021-11-08T12:28:32.415Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" version="15.2.7" etag="OwIwoP-uCCPzLOaXYt4_" type="github"><diagram id="EZFxipF9WW0kz-BHjYni">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-08T12:57:14.749Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="eRz9K4s1QLySO9LuokBI" version="15.2.7" type="github">
+  <diagram id="EZFxipF9WW0kz-BHjYni" name="Page-1">
+    <mxGraphModel dx="706" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MM4fSGyf_s-kWATPK-MF-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="830" width="690" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="MM4fSGyf_s-kWATPK-MF-1" value="redis" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="510" y="845" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MM4fSGyf_s-kWATPK-MF-3" value="存储" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66FFFF;" vertex="1" parent="1">
+          <mxGeometry x="460" y="800" width="690" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MM4fSGyf_s-kWATPK-MF-4" value="rds" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="630" y="845" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MM4fSGyf_s-kWATPK-MF-5" value="holo" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="750" y="845" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MM4fSGyf_s-kWATPK-MF-6" value="hbase" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="880" y="845" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MM4fSGyf_s-kWATPK-MF-7" value="adb" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="845" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MM4fSGyf_s-kWATPK-MF-9" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="790" as="sourcePoint" />
+            <mxPoint x="560" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MM4fSGyf_s-kWATPK-MF-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="360" width="690" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="MM4fSGyf_s-kWATPK-MF-11" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1020" y="790" as="sourcePoint" />
+            <mxPoint x="1020" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MM4fSGyf_s-kWATPK-MF-12" value="组件元数据配置" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66FF66;" vertex="1" parent="1">
+          <mxGeometry x="500" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MM4fSGyf_s-kWATPK-MF-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="370" width="660" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
